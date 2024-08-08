@@ -22,8 +22,8 @@ Welcome to the Movie Recommender System! This project is a web-based application
 - Virtual environment (recommended)
 ### Installation Steps
 1. Clone the Repository:
-git clone [https://github.com/Dilesh-Bisen/movie-recommender-system.git](https://github.com/Dilesh-Bisen/recommender-system.github.io.git)
-cd movie-recommender-system
+- git clone [https://github.com/Dilesh-Bisen/recommender-system.github.io.git](https://github.com/Dilesh-Bisen/recommender-system.github.io.git)
+- cd movie-recommender-system
 2. Create and Activate Virtual Environment:
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate

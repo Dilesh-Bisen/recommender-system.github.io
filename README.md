@@ -1,4 +1,4 @@
-Project-Link: [https://dilesh-bisen-recommend.streamlit.app]
+Project-Link: [[https://dilesh-bisen-recommend.streamlit.app](https://dilesh-bisen-recommend.streamlit.app)]
 
 # <b>Movie Recommender System</b>
 Welcome to the Movie Recommender System! This project is a web-based application that helps users discover new movies based on their preferences. Built using Streamlit and Python, this app fetches movie recommendations and displays them with posters, ensuring an engaging user experience.
@@ -22,7 +22,7 @@ Welcome to the Movie Recommender System! This project is a web-based application
 - Virtual environment (recommended)
 ### Installation Steps
 1. Clone the Repository:
-git clone https://github.com/Dilesh-Bisen/movie-recommender-system.git
+git clone [https://github.com/Dilesh-Bisen/movie-recommender-system.git](https://github.com/Dilesh-Bisen/recommender-system.github.io.git)
 cd movie-recommender-system
 2. Create and Activate Virtual Environment:
 python -m venv venv
@@ -51,5 +51,5 @@ This will start the Streamlit server and open the application in your default we
 Contributions are welcome! If you have suggestions or improvements, please create an issue or submit a pull request.
 
 ## <b>Contact<b>
-For any questions or feedback, please reach out to [Dilesh-Bisen] at [2dileshbisen@example.com].
+For any questions or feedback, please reach out to [[Dilesh-Bisen](https://github.com/Dilesh-Bisen)] at [[2dileshbisen@example.com](2dileshbisen@example.com)].
 

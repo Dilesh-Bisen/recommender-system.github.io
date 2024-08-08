@@ -13,7 +13,8 @@ st.set_page_config(
 
 
 def fetch_poster(movie_id, retries=3, backoff_factor=0.3):
-    url = f"https://api.themoviedb.org/3/movie/{movie_id}?api_key=36a3c95f8bc7244e7ebafcf8d9b82dfa&language=en-US"
+    your_api_key = API-Key
+    url = f"https://api.themoviedb.org/3/movie/{movie_id}?api_key={your_api_key}&language=en-US"
     for i in range(retries):
         try:
             response = requests.get(url)

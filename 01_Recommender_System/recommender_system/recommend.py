@@ -44,9 +44,9 @@ def recommend(movie):
     return recommended_movies, recommended_movies_poster
 
 
-movies_dict = pickle.load(open('movies.pkl', 'rb'))
+movies_dict = pickle.load(open('01_Recommender_System/Output_file/movies.pkl', 'rb'))
 movie_names = pd.DataFrame(movies_dict)
-similarity = pickle.load(open('similarity.pkl', 'rb'))
+similarity = pickle.load(open('01_Recommender_System/Output_file/similarity.pkl', 'rb'))
 
 st.sidebar.title("Movie Recommender System")
 selected_movie_name = st.sidebar.selectbox("Select a Movie", movie_names['title'].values)

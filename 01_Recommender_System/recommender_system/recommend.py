@@ -139,7 +139,7 @@ st.markdown("""
     <hr style="border:1px solid #f5f5f5">
     <footer>
     <p style="text-align:center;font-size:12px;color:grey;">
-        © 2024 Movie Recommender | Powered by Streamlit | Designed by [Your Name]
+        © 2024 Movie Recommender | Powered by Streamlit | Designed by Dilesh Bisen
     </p>
     </footer>
     """, unsafe_allow_html=True)

@@ -32,7 +32,7 @@ pip install -r requirements.txt
 4. Add API Key
 Make sure to replace the placeholder API key in fetch_poster function with your own API key from 'The Movie Database API'.
 5. Run the Application
-streamlit run app.py
+streamlit run recommend.py
 This will start the Streamlit server and open the application in your default web browser.
 
 ## <b>Usage</b>
@@ -42,7 +42,7 @@ This will start the Streamlit server and open the application in your default we
 - Browse through the recommended movies and their posters.
 
 ## <b>Files and Directories</b>
-- app.py: Main Streamlit application file.
+- recommend.py: Main Streamlit application file.
 - movies.pkl: Pickled movie dataset.
 - similarity.pkl: Pickled similarity matrix.
 - requirements.txt: List of Python dependencies.

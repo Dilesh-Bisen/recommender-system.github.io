@@ -51,5 +51,4 @@ This will start the Streamlit server and open the application in your default we
 Contributions are welcome! If you have suggestions or improvements, please create an issue or submit a pull request.
 
 ## <b>Contact<b>
-For any questions or feedback, please reach out to [Dilesh-Bisen](https://github.com/Dilesh-Bisen) at [2dileshbisen@gmail.com].
-
+For any questions or feedback, please reach out to [Dilesh-Bisen](https://github.com/Dilesh-Bisen) at <a href="mailto:2dileshbisen@gmail.com">2dileshbisen@gmail.com</a>.

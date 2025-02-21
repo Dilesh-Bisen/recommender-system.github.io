@@ -132,7 +132,7 @@ if st.sidebar.button("Recommend"):
     for idx, col in enumerate([col1, col2, col3, col4, col5]):
         with col:
             st.markdown(f"<div class='movie-title'>{names[idx]}</div>", unsafe_allow_html=True)
-            st.image(posters[idx], use_column_width=True, output_format='PNG')
+            st.image(posters[idx], use_container_width=True, output_format='PNG')
             st.markdown(f"<div class='movie-genre'>Genre: Action, Drama</div>", unsafe_allow_html=True)
 
 st.markdown("""
